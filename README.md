@@ -36,7 +36,7 @@ Una aplicación web full stack para leer noticias personalizadas, con autenticac
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/news-reader-project.git
+git clone https://github.com/ManRio/newsreader
 cd news-reader-project
 ```
 
@@ -138,15 +138,9 @@ npm run dev
 
 ---
 
-## 📸 Demo
-
-> Puedes ver una demo aquí: [https://tu-proyecto.vercel.app](https://tu-proyecto.vercel.app)
-
----
-
 ## 🧑‍💻 Autor
 
-Desarrollado por [Tu Nombre](https://github.com/tuusuario)
+Desarrollado por [ManRio](https://github.com/ManRio)
 
 ---
 
