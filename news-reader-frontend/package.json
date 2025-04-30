@@ -1,0 +1,23 @@
+{
+  "name": "news-reader-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "framer-motion": "^12.9.2",
+    "lucide-react": "^0.503.0",
+    "next": "15.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.1"
+  }
+}
